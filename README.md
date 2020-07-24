@@ -1,7 +1,8 @@
 # Labeddit
 
 ## Stack
-Este projeto foi desenvolvido durante o curso de Desenvolvimento Web-Full-Stack da Labenu 
+Este projeto foi desenvolvido durante o curso de Desenvolvimento Web-Full-Stack da Labenu.
+
 O React foi a linguagem de programação escolhida para produzir o aplicativo além das libs useContext, useEffect, customHooks e Material UI do Google.
 
 
@@ -20,4 +21,5 @@ rodar:
 
 ## Contato
 Alexandre Gessone 
+
 alex.gessone@gmail.com
