@@ -17,10 +17,7 @@ rodar:
 1. `npm run build` para gerar uma versão estática do projeto 
 (que ficará na pasta `build`);
 
-## Link do Surge
-http://labeddit-alegessone.surge.sh/login
 
 ## Contato
-Alexandre Gessone
-
+Alexandre Gessone 
 alex.gessone@gmail.com
