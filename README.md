@@ -19,6 +19,10 @@ rodar:
 (que ficará na pasta `build`);
 
 
+# Desenvolvedores contribuintes
+Renan Takeshi
+
+
 ## Contato
 Alexandre Gessone 
 
