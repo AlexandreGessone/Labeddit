@@ -18,6 +18,9 @@ rodar:
 1. `npm run build` para gerar uma versão estática do projeto 
 (que ficará na pasta `build`);
 
+# Desenvolvedores contribuintes
+Eros Pinder Valente erospv
+
 ## Contato
 Alexandre Gessone 
 
