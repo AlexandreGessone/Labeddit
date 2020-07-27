@@ -19,7 +19,7 @@ rodar:
 (que ficará na pasta `build`);
 
 # Desenvolvedores contribuintes
-Eros Pinder Valente erospv
+Eros Pinder Valente
 
 ## Contato
 Alexandre Gessone 
